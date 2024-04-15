@@ -1,0 +1,1 @@
+#Dynamic quote generator.
